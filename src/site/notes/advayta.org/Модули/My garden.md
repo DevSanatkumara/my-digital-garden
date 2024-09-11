@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advayta-org/moduli/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/advayta.org/Модули/My garden/","tags":["gardenEntry"]}
 ---
 
 [[advayta.org/Модули/Модули\|Модули]]
